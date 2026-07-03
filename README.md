@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E1B4B&height=220&section=header&text=Hi%20I'm%20Raina%20%F0%9F%91%8B&fontSize=42&fontColor=A855F7&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=18&descColor=8B8B9E" width="100%"/>
 
 <a href="https://www.linkedin.com/in/raina-singh-b3b4782b6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=A855F7&labelColor=0D1117&style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
 </a>
 <a href="mailto:rainasingh474@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+  <img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=A855F7&labelColor=0D1117&style=for-the-badge&logo=gmail&logoColor=A855F7"/>
 </a>
 <a href="https://github.com/rainasinngh">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"/>
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Follow&color=A855F7&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=A855F7"/>
 </a>
 
 <br/>
@@ -56,25 +56,40 @@ currently:     learning Python 🐍 & Kubernetes ☸️
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/rainasinngh/agentic-infra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasinngh&repo=agentic-infra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9C9C9&icon_color=A855F7" />
-</a>
-<a href="https://github.com/rainasinngh/ansible-app-deployment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasinngh&repo=ansible-app-deployment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9C9C9&icon_color=A855F7" />
-</a>
-<a href="https://github.com/rainasinngh/Fullstack-cicd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasinngh&repo=Fullstack-cicd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9C9C9&icon_color=A855F7" />
-</a>
+**🟣 [Agentic AI Infrastructure](https://github.com/rainasinngh/agentic-infra)**
+<br/>Azure infrastructure automation using ARM templates & container platforms
+<br/>
+![Repo Size](https://img.shields.io/github/repo-size/rainasinngh/agentic-infra?style=flat-square&color=A855F7&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/rainasinngh/agentic-infra?style=flat-square&color=A855F7&labelColor=0D1117)
 
-</div>
+</td>
+<td width="50%">
 
-| Project | Description |
-|---|---|
-| 🟣 **[Agentic AI Infrastructure](https://github.com/rainasinngh/agentic-infra)** | Azure infrastructure automation using ARM templates & container platforms |
-| 🟣 **[Ansible App Deployment](https://github.com/rainasinngh/ansible-app-deployment)** | All-in-one Ansible automation kit for multi-stack apps with Nginx |
-| 🟣 **[Fullstack CI/CD](https://github.com/rainasinngh/Fullstack-cicd)** | End-to-end CI/CD pipeline for full-stack applications |
+**🟣 [Ansible App Deployment](https://github.com/rainasinngh/ansible-app-deployment)**
+<br/>All-in-one Ansible automation kit for multi-stack apps with Nginx
+<br/>
+![Repo Size](https://img.shields.io/github/repo-size/rainasinngh/ansible-app-deployment?style=flat-square&color=A855F7&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/rainasinngh/ansible-app-deployment?style=flat-square&color=A855F7&labelColor=0D1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🟣 [Fullstack CI/CD](https://github.com/rainasinngh/Fullstack-cicd)**
+<br/>End-to-end CI/CD pipeline for full-stack applications
+<br/>
+![Repo Size](https://img.shields.io/github/repo-size/rainasinngh/Fullstack-cicd?style=flat-square&color=A855F7&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/rainasinngh/Fullstack-cicd?style=flat-square&color=A855F7&labelColor=0D1117)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 <br/>
 
